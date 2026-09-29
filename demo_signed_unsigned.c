@@ -1,4 +1,4 @@
-// 教員デモ: signed / unsigned のオーバーフロー
+// やましゅうデモ: signed / unsigned のオーバーフロー
 // 127 に 1 を足すと、signed と unsigned でどう違う？
 
 #include <stdio.h>
